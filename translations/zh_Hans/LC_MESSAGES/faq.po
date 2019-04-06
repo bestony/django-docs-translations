@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Django Software Foundation and contributors
 # This file is distributed under the same license as the Django package.
-#
+# 
 # Translators:
 # Dogify <595572594@qq.com>, 2018
 # asdf asdf <328134421@qq.com>, 2018
